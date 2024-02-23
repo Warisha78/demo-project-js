@@ -109,3 +109,6 @@ var visitorname = "john doe";
 var producttitle = "5 T shirts";
 var Quantity = "XYZ Clothing store";
 document.write(visitorname + "ordered" + producttitle + "on" + Quantity);
+
+var Quantity = "XYZ Clothing store";
+document.write(visitorname + "ordered" + producttitle + "on" + Quantity);
