@@ -112,3 +112,8 @@ document.write(visitorname + "ordered" + producttitle + "on" + Quantity);
 
 var Quantity = "XYZ Clothing store";
 document.write(visitorname + "ordered" + producttitle + "on" + Quantity);
+
+function handleAlert() {
+  alert("Alert here");
+  console.log("Alert here");
+}
